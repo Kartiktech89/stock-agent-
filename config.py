@@ -8,10 +8,10 @@ Never commit this file to public repositories.
 PORTFOLIO_FILE = "portfolio.json"
 
 # Gemini API (Google AI)
-GEMINI_API_KEY = "AIzaSyB1g4qMcd-TbVbjlIJj1D076A_phykpEGU"
+GEMINI_API_KEY = "AIzaSyB1xxxx
 
 # NewsAPI
-NEWS_API_KEY = "73f7cf7d17e341cbac4ee15abecf6357"
+NEWS_API_KEY = "73f7cf7d17exxxx
 
 # Sentiment Mode: auto | gemini | local
 SENTIMENT_MODE = "local"
